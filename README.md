@@ -1,5 +1,5 @@
 # Hear-Volume-Limiter-MacOS
- This app limits your volume on MacOS and protects your hearing.
+ This app limits your volume to selected level on MacOS and protects your hearing.
 
 --- 
 
